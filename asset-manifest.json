@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactreduapp/static/css/main.f855e6bc.css",
+    "main.js": "/reactreduapp/static/js/main.0849616c.js",
+    "static/js/787.585bbc80.chunk.js": "/reactreduapp/static/js/787.585bbc80.chunk.js",
+    "index.html": "/reactreduapp/index.html",
+    "main.f855e6bc.css.map": "/reactreduapp/static/css/main.f855e6bc.css.map",
+    "main.0849616c.js.map": "/reactreduapp/static/js/main.0849616c.js.map",
+    "787.585bbc80.chunk.js.map": "/reactreduapp/static/js/787.585bbc80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0849616c.js"
+  ]
+}
